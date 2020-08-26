@@ -1819,10 +1819,9 @@ header .button {
 
 /* Vertical Featured Image */
 .vertical-featured-image-container {
-	transition: 1.5s;
+	transition: 1s;
 	opacity: 0;
-	margin-left: 150px;
-	height: 100%; /* Use it when you need img to be resizable when resizing browser [ rare possibility ] */
+	margin-left: 150px; /* Use it when you need img to be resizable when resizing browser [ rare possibility ] */
 }
 
 .vertical-featured-image-container img {
