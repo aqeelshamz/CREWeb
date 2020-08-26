@@ -950,7 +950,7 @@ ul.single-column-features li:nth-child(2n) {
 }
 
 .social-icons li a {
-	/*color: #444;*/
+	color: transparent;
 	border: 1px solid;
 	font-size: 19px;
 	display: block;
@@ -968,7 +968,7 @@ ul.single-column-features li:nth-child(2n) {
  */
 .social-icons li a i:before, 
 .social-icons li a i:after {
-	color: #444;
+	color: #fff;
 	height: 43px;
 	width: 43px;
 	line-height: 43px;
